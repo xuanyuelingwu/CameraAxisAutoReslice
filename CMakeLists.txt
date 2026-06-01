@@ -4,9 +4,9 @@ project(CameraAxisAutoReslice)
 
 #-----------------------------------------------------------------------------
 # Extension metadata
-set(EXTENSION_HOMEPAGE "https://github.com/your-github-username/CameraAxisAutoReslice")
+set(EXTENSION_HOMEPAGE "https://github.com/Xuanyuelingwu/CameraAxisAutoReslice")
 set(EXTENSION_CATEGORY "IGT")
-set(EXTENSION_CONTRIBUTORS "Your Name")
+set(EXTENSION_CONTRIBUTORS "Lu Aohan")
 set(EXTENSION_DESCRIPTION "A 3D Slicer scripted module for automatic camera-axis oblique MRI reslicing from a cortical surface view.")
 set(EXTENSION_ICONURL "")
 set(EXTENSION_SCREENSHOTURLS "")
