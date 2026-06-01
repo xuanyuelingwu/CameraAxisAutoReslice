@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Slicer / CMake build output
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CTestTestfile.cmake
+Makefile
+*.cmake.user
+*.sln
+*.vcxproj*
+*.xcodeproj/
+build/
+_CPack_Packages/
+
+# Local data and generated output
+*.mrml
+*.mrb
+*.nrrd
+*.nii
+*.nii.gz
+*.mgz
+*.dcm
+*.stl
+*.vtk
+*.vtp
+*.ply
+*.obj
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
