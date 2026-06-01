@@ -34,7 +34,7 @@ _CPack_Packages/
 
 # OS/editor files
 .DS_Store
+._*
 Thumbs.db
 .idea/
 .vscode/
-
